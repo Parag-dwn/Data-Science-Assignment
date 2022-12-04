@@ -15,6 +15,8 @@ Using more than one model, predict the price of the house using the given datase
 accuracy of the models along with the drawbacks of each technique's assumptions before recommending
 the final prediction model.
 \
+DataSet Used- DS - Assignment Part 1 data set.xlsx'
+\
 **Comparing Accuracy of Three Models - LinearRegression,DecisionTreeRegressor and RandomForestRegressor.**
 
 
@@ -39,6 +41,12 @@ many techniques as possible before choosing the final technique.
 You may either display the final result in single table format OR You may create a simple form where we
 input the product name and the output of prices of the product from both websites are displayed.\
 \
-**Storing the Result of the Comparion in Output File.**
+DataSet Used -
+ /content/amz_com-ecommerce_sample.csv
+ and flipkart_com-ecommerce_sample.csv.
+ \ 
+ Dataset for part2 contains in DS - Assignment Part 2 data set.zip
+\
+**Desired  Result of the Comparion Stored in Output.csv.**
 
 
